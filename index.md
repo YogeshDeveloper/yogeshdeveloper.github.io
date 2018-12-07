@@ -7,4 +7,4 @@
 
 <p>Test</p>
 
-<p>Git Commit</p
+<p>Git Commit</p>
