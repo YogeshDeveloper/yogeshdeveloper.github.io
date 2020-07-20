@@ -1,0 +1,16 @@
+.Layout1{
+    border: 1px solid white;
+    color: black;
+    /* background-color:; */
+    text-align: center;
+  }
+.Layout2{
+  /* display: flex;
+  width: 100%;
+  border: 1px solid black;
+  justify-content: center;
+  flex-direction: column; */
+  align-items: flex-end;
+
+
+}

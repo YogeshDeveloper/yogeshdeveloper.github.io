@@ -1,3 +1,3 @@
 <p> Yogesh SP </p>
 
-<p> Project 1: Newspaper </p>
+<a href ="/newspaper/index.html" target ="_blank">Project 1: Newspaper </a>
